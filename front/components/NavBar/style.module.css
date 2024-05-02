@@ -1,0 +1,21 @@
+
+.link{
+  margin: 5px;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  
+}
+.link:hover{
+    color: #5c5470;
+  
+}
+
+.user{
+  margin: auto;
+}
+
+.img{
+  width: 60px;
+  height: auto;
+}
